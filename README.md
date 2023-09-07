@@ -32,3 +32,9 @@ Sendo ID o número de identificação na tabela; Name podemos classificar como o
 2. EC2
 
    A Amazon Elastic Compute Cloud (EC2) é um serviço de computação em nuvem da AWS que oferece instâncias virtuais escaláveis para executar aplicativos e cargas de trabalho na nuvem.
+
+## Vídeo de demonstração da Aplicação
+
+[Assista ao meu vídeo](https://youtu.be/73AuYDK9UF0) - Part 2
+
+[Assista ao meu vídeo](https://youtu.be/Q4Mjuhez9_0) - Part 1
